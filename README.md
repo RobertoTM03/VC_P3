@@ -158,30 +158,30 @@ A continuación se muestran ejemplos de detección y clasificación de partícul
 
 **Fragmentos (FRA)**
 
-![Fragmento 1](imagenes/FRA-1.png)
-![Fragmento 2](imagenes/FRA-2.png)
+![Fragmento 1](Imagenes/FRA-1.png)
+![Fragmento 2](Imagenes/FRA-2.png)
 
 **Alquitrán (TAR)**
 
-![Alquitrán 1](imagenes/TAR-1.png)
-![Alquitrán 2](imagenes/TAR-2.png)
+![Alquitrán 1](Imagenes/TAR-1.png)
+![Alquitrán 2](Imagenes/TAR-2.png)
 
 **Pellets (PEL)**
 
-![Pellet 1](imagenes/PEL-1.png)
-![Pellet 2](imagenes/PEL-2.png)
+![Pellet 1](Imagenes/PEL-1.png)
+![Pellet 2](Imagenes/PEL-2.png)
 
 #### Matriz de confusión
 La siguiente figura muestra la matriz de confusión del modelo, comparando las etiquetas reales con las predicciones:
 
-![Matriz de confusión 1](imagenes/Matriz-Confusión.png)
+![Matriz de confusión 1](Imagenes/Matriz-Confusión.png)
 
 **Accuracy obtenido:** **70.31%**  
 
 #### Detecciones realizadas
 La siguiente imagen muestra las detecciónes realizadas sobre la imagen de evaluación:
 
-![Matriz de confusión 1](imagenes/detecciones_evaluacion_final.png)
+![Detección en la evaluación final](Imagenes/detecciones_evaluacion_final.png)
 
 
 ---
